@@ -1,0 +1,7 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>안내 페이지를 찾지 못했어요 | 호야네 · 호호네</title><style>body{margin:0;background:#f7f6f1;color:#28392c;font-family:system-ui,sans-serif;line-height:1.8;word-break:keep-all}main{max-width:520px;margin:12vh auto;padding:30px;text-align:center}h1{font-size:72px;font-family:Georgia,serif;font-weight:400;margin:0}h2{font-size:25px}p{font-size:14px;color:#667067}button,a{display:inline-block;background:#405a47;color:white;border:0;border-radius:12px;padding:13px 20px;font:inherit;font-size:14px;text-decoration:none;margin:5px;cursor:pointer}button:focus-visible,a:focus-visible{outline:3px solid #947444;outline-offset:4px}</style></head><body><main><h1>404</h1><h2>조금 다른 길로 오셨네요.</h2><p>주소가 바뀌었거나 잘못 입력된 링크예요.<br>예약 메시지에 있는 숙소 안내 링크를 다시 확인해 주세요.</p><button id="back" type="button">이전 페이지로</button><a id="home" href="./" hidden>숙소 선택으로</a><p id="help" hidden>이전 페이지가 없습니다. 예약 메시지의 링크를 다시 열어 주세요.</p></main><script>
+// The build helper fills this only when an actual public URL is provided.
+const PUBLIC_BASE = "https://renu-kim.github.io/Hoya-hoho-house/";
+const home = document.getElementById('home');
+if (PUBLIC_BASE) { try { const u = new URL(PUBLIC_BASE); if (u.protocol === 'https:') {home.href=u.href;home.hidden=false;} } catch {} }
+document.getElementById('back').addEventListener('click',()=>{ if(history.length>1) history.back(); else document.getElementById('help').hidden=false; });
+</script></body></html>

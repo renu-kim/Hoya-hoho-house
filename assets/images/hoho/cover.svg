@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" role="img" aria-label="HOHONE 브랜드 일러스트. 실제 숙소 사진이 아닙니다.">
+<defs><linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf5e7"/><stop offset="1" stop-color="#e8ddc5"/></linearGradient><linearGradient id="window" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9c735a"/><stop offset="1" stop-color="#80543e"/></linearGradient><pattern id="paper" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".5" fill="#ffffff" opacity=".14"/><circle cx="5" cy="6" r=".4" fill="#324b34" opacity=".07"/></pattern></defs>
+<path fill="#f0e1d3" d="M0 0h800v560H0z"/>
+<circle cx="641" cy="118" r="60" fill="#e9ca98" opacity=".73"/>
+<path d="M0 434c154-44 230 24 375-2s254-8 425-24v152H0Z" fill="#cfaa83" opacity=".29"/>
+<ellipse cx="442" cy="460" rx="244" ry="31" fill="#80543e" opacity=".09"/>
+<path d="M280 438V227a160 160 0 0 1 320 0v211Z" fill="#cfaa83" opacity=".38"/>
+<path d="M256 430V219a158 158 0 0 1 316 0v211Z" fill="url(#wall)"/>
+<path d="M284 427V220a129 129 0 0 1 258 0v207" fill="none" stroke="#fffaf0" stroke-width="2" opacity=".65"/>
+<path d="M348 411V228a66 66 0 0 1 132 0v183Z" fill="url(#window)"/>
+<path d="M350 231a64 64 0 0 1 128 0M414 165v246M349 247h131M349 335h131" fill="none" stroke="#d3c4a7" stroke-width="5"/>
+<path d="m427 178 36 34-34 81ZM358 259h44l-44 55Z" fill="#f7f6df" opacity=".12"/>
+<circle cx="435" cy="330" r="3.5" fill="#e7c786"/>
+<path d="M320 412h190v17H320z" fill="#c9b797"/><path d="M302 429h226v15H302z" fill="#dccbb0"/><path d="M280 444h266v14H280z" fill="#eadcc5"/>
+<path d="M215 436V264" stroke="#80543e" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="211" cy="249" rx="68" ry="86" fill="#9c735a"/>
+<ellipse cx="176" cy="285" rx="55" ry="67" fill="#80543e" opacity=".82"/>
+<ellipse cx="237" cy="292" rx="54" ry="61" fill="#9c735a"/>
+<path d="M213 392V284m0 71-26-34m28 17 28-29" fill="none" stroke="#e7e6d0" stroke-width="2" opacity=".4"/>
+<path d="M596 433v-94m0 49-32-38m32 17 33-48" stroke="#80543e" stroke-width="3" fill="none"/>
+<path d="M596 374c-47-8-52-40-47-47 34 2 52 18 47 47Zm3-15c-4-30 10-57 41-65 9 29-11 57-41 65Zm-4-17c-26-20-21-48-4-66 21 18 25 45 4 66Zm4 63c7-29 32-42 58-39-4 28-27 44-58 39Z" fill="#9c735a"/>
+<path d="M565 409h64l-10 43h-44Z" fill="#c18a67"/><path d="M560 407h74v11h-74Z" fill="#d9a17e"/>
+<path d="m510 484 50 11-85 17-40-11Zm-94 31 33 13-57 17-29-12Z" fill="#fff7e7" opacity=".73"/>
+<path d="M65 122c14-13 27-13 39 0m19-21c11-10 21-10 30 0" fill="none" stroke="#80543e" stroke-width="2.5" stroke-linecap="round" opacity=".3"/>
+<path d="M69 493c-8-28-5-52 5-73m-2 58c-30-5-40-21-36-32 20-3 34 9 36 32Zm2-24c4-24 21-37 38-31 0 19-17 32-38 31Z" fill="#9c735a" opacity=".6"/>
+<text x="58" y="72" font-family="Georgia,serif" font-size="13" letter-spacing="5" fill="#80543e" opacity=".65">HOHONE</text><text x="705" y="486" font-family="Georgia,serif" font-size="12" fill="#80543e" transform="rotate(-90 705 486)" letter-spacing="2" opacity=".6">SLOW DAYS, WARM MEMORIES</text>
+<path fill="url(#paper)" d="M0 0h800v560H0z"/>
+</svg>
